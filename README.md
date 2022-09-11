@@ -1,10 +1,8 @@
 # calculator
 
 A new Flutter project.
+
 ![image](https://user-images.githubusercontent.com/64930024/189540672-cdab5fd4-7753-4da1-9fa6-97a1f8992d4b.png)
-
-![image](https://user-images.githubusercontent.com/64930024/189540550-24140cba-ae26-4577-a3ec-1c5a22b8f2ea.png)
-
 
 ## Getting Started
 
